@@ -39,6 +39,6 @@ Diseño visual basado en capas:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/tu-usuario/nibbles-rust.git](https://github.com/tu-usuario/nibbles-rust.git)
+   git clone [https://github.com/ffespechen/rust-ratatui-snake-viborita.git](https://github.com/ffespechen/rust-ratatui-snake-viborita.git)
    cd nibbles-rust
    ```
